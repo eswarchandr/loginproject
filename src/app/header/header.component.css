@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    border: 1px solid;
+    float: left;
+    margin-left: 162px;
+    width: -webkit-fill-available;
+ }
+ .avatar{
+     justify-content: end;
+     margin-left: 1141px;
+ 
+     margin-top: -44px;
+ }
+ 
+ 
+ 
+ h1{
+     text-align: center;
+     margin-left: 450px;
+ }
+ 
+ .input{
+     margin-left: 180px;
+     height: 39px;
+     margin-top: 9px;
+ }
+ .bi{
+     margin-left: 35px;
+     margin-top: -104px;
+ 
+ }
